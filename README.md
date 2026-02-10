@@ -6,16 +6,4 @@ Based on the ImageCAS dataset, we curated a private coronary artery dataset comp
 ## 🚀Download
 Download This is a public dataset for coronary artery labeling; the link is [here](https://doi.org/10.5281/zenodo.18587901)
 ****
-## Citation
-Please cite our dataset when referencing it.
 
-```bibtex
-@article{zeng2023imagecas,
-  title   = {Imagecas: A large-scale dataset and benchmark for coronary artery segmentation based on computed tomography angiography images},
-  author  = {Zeng, An and Wu, Chunbiao and Lin, Guisen and Xie, Wen and Hong, Jin and Huang, Meiping and others},
-  journal = {Computerized Medical Imaging and Graphics},
-  volume  = {109},
-  pages   = {102287},
-  year    = {2023},
-  publisher = {Elsevier}
-}
