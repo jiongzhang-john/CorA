@@ -5,6 +5,14 @@ A coronary artery labeling dataset has a total of 15 categories.
 ****
 
 # Citation
-T. Chen, D. Zhang, D. Chen, H. Fu, K. Jin, S. Wang, L.D. Cohen, Y. Zhao, Q. Yi, J. Zhang. [LINK](https://www.computer.org/csdl/journal/tp/5555/01/11130403/29jmXqPzl0k). Neovascularization Segmentation via a Multilateral Interaction-Enhanced Graph Convolutional Network. IEEE Transactions on Pattern Analysis and Machine Intelligence, 2025.
+@article{zeng2023imagecas,
+  title={Imagecas: A large-scale dataset and benchmark for coronary artery segmentation based on computed tomography angiography images},
+  author={Zeng, An and Wu, Chunbiao and Lin, Guisen and Xie, Wen and Hong, Jin and Huang, Meiping and Zhuang, Jian and Bi, Shanshan and Pan, Dan and Ullah, Najeeb and others},
+  journal={Computerized Medical Imaging and Graphics},
+  volume={109},
+  pages={102287},
+  year={2023},
+  publisher={Elsevier}
+}
 
 ****
