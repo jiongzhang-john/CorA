@@ -1,6 +1,28 @@
 #  CorA Dataset for coronary artery labeling
 ## Background
-Based on the ImageCAS dataset, we curated a private coronary artery dataset comprising 100 volumes. Each case is manually annotated into 15 anatomical categories, including the left anterior descending (LAD), left circumflex (LCX), right coronary artery (RCA), and their major branches. This dataset provides more detailed coronary artery structures, thereby serving as a complementary benchmark to validate the generalizability of our model. We plan to publicly release this dataset to facilitate future research in fine-grained coronary artery analysis. Similarly, we partitioned the data using a 6:2:2 ratio for training, validation, and test sets.
+Building upon the ImageCAS dataset, we constructed a coronary artery dataset comprising 100 volumetric scans. Each case was manually annotated into 15 anatomically defined categories, including:
+
+* proximal right coronary artery (pRCA),
+* mid right coronary artery (mRCA),
+* distal posterior coronary artery (dPCA),
+* left main coronary artery (LM),
+* proximal left circumflex artery (pLCX),
+* obtuse marginal branch 1 (OM1),
+* distal left circumflex artery (dLCX),
+* obtuse marginal branch 2 (OM2),
+* left posterior descending artery (LPDA),
+* ramus intermedius (RI),
+* proximal left anterior descending artery (pLAD),
+* first diagonal branch (D1),
+* mid left anterior descending artery (mLAD),
+* second diagonal branch (D2), 
+* distal left anterior descending artery (dLAD).
+
+Compared with existing datasets, this collection provides fine-grained and anatomically comprehensive annotations of coronary artery substructures, thereby serving as a complementary benchmark for evaluating the generalizability and robustness of coronary artery labeling models.
+
+To facilitate future research in fine-grained coronary artery analysis, we plan to publicly release this dataset.
+
+****
 ![image](https://github.com/jiongzhang-john/CorA/blob/main/data.png)
 
 ****
